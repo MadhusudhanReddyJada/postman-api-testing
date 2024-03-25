@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "501",
+      "name": "sam",
+      "age": 24
+    },
+    {
+      "id": "518",
+      "name": "madhu",
+      "age": 22
+    },
+    {
+      "id": "561",
+      "name": "gani",
+      "age": 22
+    },
+    {
+      "id": "5E2",
+      "name": "sreenu",
+      "age": 24
+    },
+    {
+      "id": "f6ab",
+      "name": "charan",
+      "age": 24
+    }
+  ]
+}
